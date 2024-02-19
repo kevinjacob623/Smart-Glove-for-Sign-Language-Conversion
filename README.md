@@ -2,7 +2,7 @@
 The project involves using a flex sensor and Arduino to detect hand gestures, which are then translated into letters, forming words that are transmitted via Bluetooth to a mobile app capable of both displaying the word and converting spoken words into text messages.
 
 
-Smart Speaking System for Hearing and Speech Impaired: README**
+Smart Speaking System for Hearing and Speech Impaired: README
 
 Welcome to the GitHub repository for our Smart Speaking System project aimed at assisting individuals with hearing and speech impairments. This README serves as a guide to understand the project, its goals, implementation, and how to contribute.
 
