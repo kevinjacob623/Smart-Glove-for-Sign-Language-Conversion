@@ -16,7 +16,8 @@ Features:
 4. Speech Recognition**: Incorporates speech recognition technology to convert spoken words into text for display and communication.
 
 Hardware Requirements:
-- ATMEGA328 Microcontroller
+- Arduino Uno
+- Resistors
 - Flex Sensors
 - HC-05 Bluetooth Module
 
